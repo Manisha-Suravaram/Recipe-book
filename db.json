@@ -1,0 +1,79 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Andhra Chicken Curry",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Green Chilies",
+          "Ginger-Garlic Paste",
+          "Red Chili Powder",
+          "Turmeric",
+          "Coriander Powder",
+          "Cumin",
+          "Mustard Seeds",
+          "Curry Leaves",
+          "Oil",
+          "Salt"
+        ],
+        "instructions": "Sauté onions, add ginger-garlic paste, and spices. Add chicken, tomatoes, and cook. Temper with mustard seeds, cumin, and curry leaves. Simmer until chicken is tender.",
+        "image": "https://spoonsofflavor.com/wp-content/uploads/2021/04/Andhra-Chicken-Curry.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Pulihora (Tamarind Rice)",
+        "ingredients": [
+          "Rice",
+          "Tamarind Paste",
+          "Peanuts",
+          "Curry Leaves",
+          "Mustard Seeds",
+          "Chana Dal",
+          "Urad Dal",
+          "Red Chilies",
+          "Turmeric",
+          "Asafoetida",
+          "Oil"
+        ],
+        "instructions": "Cook rice and mix with tamarind paste. In a pan, temper spices and add to the rice. Garnish with roasted peanuts and serve.",
+        "image": "https://3.bp.blogspot.com/-6KrKB-VtwGM/V3pl5bG1MNI/AAAAAAAAOA8/BjFtDQUpSH8z_m9qr2mjv7Zhx-9gnvrngCLcB/s1600/IMG_0229%2Bcopy.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Paneer Tikka",
+        "ingredients": [
+          "Paneer",
+          "Yogurt",
+          "Ginger-Garlic Paste",
+          "Red Chili Powder",
+          "Turmeric",
+          "Garam Masala",
+          "Lemon Juice",
+          "Capsicum",
+          "Onions",
+          "Tomatoes",
+          "Skewers",
+          "Oil",
+          "Salt"
+        ],
+        "instructions": "Marinate paneer and vegetables in yogurt and spices. Thread onto skewers and grill until charred. Serve hot with lemon wedges.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNfcm_9u1ZobnUtC64KwC8o3rWysqOAlI8Q&usqp=CAU"   },
+      {
+        "id": 4,
+        "title": "Mango Lassi",
+        "ingredients": [
+          "Mango",
+          "Yogurt",
+          "Milk",
+          "Sugar",
+          "Cardamom Powder",
+          "Ice Cubes"
+        ],
+        "instructions": "Blend mango, yogurt, milk, sugar, and cardamom powder until smooth. Add ice cubes and blend again. Serve chilled.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1erYKht1zg5-jYRlq99VLyiHTXFGj7VJhCw&usqp=CAU"
+      }
+    ]
+  }
+  
